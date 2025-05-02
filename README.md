@@ -10,7 +10,7 @@ Artem, a Software Engineering student at ITMO University.
 
 ## 📫 Contacts
 
-- 💬 Telegram: @dbnnae (https://t.me/dbnnae)
+- 💬 **Telegram**: [@dbnnae](https://t.me/dbnnae)
 
 ---
 
